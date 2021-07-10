@@ -92,13 +92,12 @@ Upcoming Things!!!
 
 
 </details> -->
+---
+<img align="left" alt="codewithmitesh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codewithmitesh&show_icons=true&hide_border=true&count_private=true" />
 
-<!-- <details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  
 
-</details> -->
 [codechef]: https://www.codechef.com/users/codewithmitesh
 [leetcode]: https://leetcode.com/codewithmitesh/
 [instagram]: https://www.codechef.com/users/codewithmitesh
@@ -107,8 +106,8 @@ Upcoming Things!!!
 <!-- [website]: https://codeSTACKr.com
 
 
-[youtube]: https://youtube.com/codeSTACKr
+<!-- [youtube]: https://youtube.com/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 --> -->
