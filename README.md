@@ -93,8 +93,9 @@ Upcoming Things!!!
 
 </details> -->
 ---
-<img align="left" alt="codewithmitesh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codewithmitesh&show_icons=true&hide_border=true&count_private=true" />
+<!-- <img align="left" alt="codewithmitesh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codewithmitesh&show_icons=true&hide_border=true&count_private=true" /> -->
 
+![Mitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithmitesh&count_private=true&show_icons=true&?theme=cobalt)
 
   
 
