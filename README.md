@@ -9,7 +9,7 @@
 - 🌱 Also learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators and Developers
 - 🥅 2021 Goals: Contribute more to Open Source projects and Master The DSA
-- ⚡ Trying Hand on Web Development and Android app Developments.
+- ⚡ Trying Hard on Web Development and Android app Developments.
 
 ### Spotify Playing 🎧
 
