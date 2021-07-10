@@ -99,7 +99,7 @@
 </details> -->
 [leetcode]: https://leetcode.com/codewithmitesh/
 [instagram]: https://www.codechef.com/users/codewithmitesh
-[linkedin]: www.linkedin.com/in/mitesh-tank 
+[linkedin]: https://www.linkedin.com/in/mitesh-tank 
 [gmail]: codewithmitesh@gmail.com
 <!-- [website]: https://codeSTACKr.com
 
