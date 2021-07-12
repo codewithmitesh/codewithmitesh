@@ -2,7 +2,7 @@
 
 <hr>
 
-### Hello there, I'm Mitesh Tank  - aka [codewithmitesh][website] 👋
+## Hello there, I'm Mitesh Tank  - aka [codewithmitesh][website] 👋
 
 [![Coming Soon](https://img.shields.io/website?label=#&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](#)
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
@@ -105,6 +105,7 @@
 </details> -->
 <!-- --- -->
 <!-- <img align="left" alt="codewithmitesh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codewithmitesh&show_icons=true&hide_border=true&count_private=true" /> -->
+<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> GitHub Stats (Still Improving)</h2>
 
 ![Mitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithmitesh&hide_border=true&count_private=true&show_icons=true&theme=cobalt)
 
