@@ -24,9 +24,9 @@
  <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" />][codechef]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />][leetcode]  -->
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 <a href="https://www.linkedin.com/in/mitesh-tank" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-
+<a href="#" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
@@ -37,7 +37,7 @@
 
 <br />
 <hr>
-<h2> Languages and Tools: </h2>
+<h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Languages and Tools: </h2>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -60,8 +60,8 @@
 
 
 Upcoming Things!!!
----
-<strong>Well Commented with Propper Logic Solution</strong> of Every Comepetitive programming Contests on  <u>Codechef ,  CodeForces and Leetcode </u>  will be Uploaded here!
+<!-- --- -->
+<strong>Well Commented with Propper Logical Solution</strong> of Every Comepetitive programming Contests on  <u>Codechef ,  CodeForces and Leetcode </u>  will be Uploaded here!
 <!-- ### 📺 Latest YouTube Videos -->
 
 <!-- 
@@ -102,7 +102,7 @@ Upcoming Things!!!
 
 
 </details> -->
----
+<!-- --- -->
 <!-- <img align="left" alt="codewithmitesh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codewithmitesh&show_icons=true&hide_border=true&count_private=true" /> -->
 
 ![Mitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithmitesh&hide_border=true&count_private=true&show_icons=true&theme=cobalt)
