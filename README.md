@@ -108,6 +108,9 @@
 
 ![Mitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithmitesh&hide_border=true&count_private=true&show_icons=true&theme=cobalt)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmitesh&layout=compact)](https://github.com/codewithmitesh/github-readme-stats)
+
+
   
 
 [codechef]: https://www.codechef.com/users/codewithmitesh
