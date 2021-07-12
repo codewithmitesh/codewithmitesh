@@ -39,10 +39,11 @@
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail] -->
 <hr>
 <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Languages and Tools: </h2>
-<img align="left" alt="HTML5" width="100px" height="25px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<!-- <img align="left" alt="HTML5" width="100px" height="25px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
-<img height="28" style=" margin-left: 10px  "  src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"> 
 
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="25"> 
 
 
 
