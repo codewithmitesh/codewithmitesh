@@ -78,7 +78,7 @@
 
 <!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
 
-
+ 
 
 <!-- ### 📕 Latest Blog Posts
 
@@ -114,7 +114,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmitesh&layout=compact)](https://github.com/codewithmitesh/github-readme-stats)
 
-
+<p align="center"> 
+  Visitors Count<br>
+  <img src="https://profile-counter.glitch.me/codewithmitesh/count.svg" />
+</p>
   
 
 [codechef]: https://www.codechef.com/users/codewithmitesh
