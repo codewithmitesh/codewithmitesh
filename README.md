@@ -64,10 +64,10 @@
 
 <br />
 
-
+<!-- 
 <h2> Upcoming Things!!! </h2>
 <!-- --- -->
-<strong>Well Commented with Propper Logical Solution</strong> of Every Comepetitive programming Contests on  <u>Codechef ,  CodeForces and Leetcode </u>  will be Uploaded here!
+<!-- <strong>Well Commented with Propper Logical Solution</strong> of Every Comepetitive programming Contests on  <u>Codechef ,  CodeForces and Leetcode </u>  will be Uploaded here! --> 
 <!-- ### 📺 Latest YouTube Videos -->
 
 <!-- 
