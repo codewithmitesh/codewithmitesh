@@ -6,7 +6,7 @@
 
 [![Coming Soon](https://img.shields.io/website?label=#&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](#)
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
-
+<img src="—Pngtree—hacker coding with a keyboard_5426760.png" height= 250 wigth = 250 align="right">
 ## I'm a Developer,Competitive Programmer and Student!!
 
 - 🔭 I'm just Working on My Problem-Solving Skills : 
@@ -15,6 +15,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects and Master The DSA
 - ⚡ Trying Hard on Web Development and Android app Developments.
 - 📫 How to reach me: codewithmitesh@gmail.com
+
 
 ### Spotify Playing 🎧
 
