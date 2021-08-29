@@ -161,7 +161,7 @@
 
 ![Mitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithmitesh&hide_border=true&count_private=true&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmitesh&layout=compact)](https://github.com/codewithmitesh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmitesh&langs_count=10&layout=compact)](https://github.com/codewithmitesh/github-readme-stats)
 
 <p align="center"> 
   Visitors Count<br>
