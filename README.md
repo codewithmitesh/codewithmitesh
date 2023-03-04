@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=193549&size=30&center=true&vCenter=true&width=900&lines=Hello+World+!+🌎+;Namaste+Duniya+!+🌎+;Hallo+Welt+!+🌎+;Ciao+mondo+!+🌎+;Hola+Mundo+!+🌏;)](https://git.io/typing-svg)
+<p align="center">
+ <img  height="225" width="800" src="https://i.ibb.co/Yp0qYHt/Email-Try-Ye-wala.png"/>
+</p>
 
 <hr>
 <!-- Add here a Linked In Poster Image  -->
@@ -20,18 +22,20 @@
             alt="follow on Github"></a>
 </p>
 
-<h2> I'm a Student, a Developer and a Freelancer!!
+<h2> I'm a Software Engineer and a Freelancer!!
 <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="60" height="40" />
 </h2>
 
 - 🔭 I'm a **Full Stack (MERN)** Developer and **Flutter Developer**. I also have knowledge of **Android Development**.
-- ✅ I have a **"Learning skills"** I like to learn new things and improve my knowledge, currently leaning **DevOps** and **Blockchain** Technologies.
-- 🔭 I'm just improving my problem solving skills and solving more more problems on **LeetCode** and **GeeksforGeeks**.
+- ✅ I have a **"Learning skills"** I like to learn new things and improve my knowledge, currently leaning **Blockchain** Development.
+- 🐱‍👤 Trying to contribute to some cool😎 open source projects.
+- 👉 Do Checkout **ReFocus** and **Skillswag**
+- 🔭 I'm just improving my problem solving skills and solving more programming problems on **LeetCode** and **GeeksforGeeks**.
 - 🥉 I recently won **_Smart India Hackathon 2022_** which is the Largest Open innovation model Hackathon in India organised by Government of India powered by Amazon and Shell.
 - 🌱 **Trying to learn something about everything and everything about something**😅
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2022-23 Goals: Contribute more to **Open Source** projects and Master The **DSA**
-- 👍 I'm looking for **remote job and internship**😇 Checkout my [RESUME](#)
+- 👍 I'm looking for **remote jobs and internships**😇 Checkout my [RESUME](https://www.linkedin.com/in/mitesh-tank)
 - 🎯 Striving hard to support my hobbies😅
 - ⚡ Fun fact: I am a huge Superhero fan and love to watch movies and series.Specially **MARVEL** and **DC**, I also love to read **Comic books**
 
@@ -203,13 +207,7 @@
 </p>
 
  <p align="center">
- <img  height="200" width="800" src="https://raw.githubusercontent.com/warlordsam07/warlordsam07/master/assets/opnakama9.jpg"/>
+ <img  height="200" width="800" src="https://i.ibb.co/3h0JQTR/opnakama9.jpg"/>
 </p>
 
-### 🙌 Sayonara, Visitor!
-
-<!-- [codechef]: https://www.codechef.com/users/codewithmitesh
-[leetcode]: https://leetcode.com/codewithmitesh/
-[instagram]: https://www.codechef.com/users/codewithmitesh
-[linkedin]: https://www.linkedin.com/in/mitesh-tank
-[gmail]: codewithmitesh@gmail.com -->
+### 🙌 Sayonara, Visitor! 
