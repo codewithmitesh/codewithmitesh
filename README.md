@@ -1,5 +1,5 @@
 <p align="center">
- <img  height="225" width="800" src="https://i.ibb.co/Yp0qYHt/Email-Try-Ye-wala.png"/>
+ <img  height="225" width="800" src="https://i.ibb.co/FhRmrNM/Banner-without-Phone.png"/>
 </p>
 
 <hr>
@@ -55,7 +55,7 @@
   <p float="left">
    <img  height="170" width="420" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in" alt="Quotes Card" />
 
-#### Tasks:
+#### Tasks
 
 - [x] Born
 - [ ] Get a 'Job'
@@ -84,7 +84,7 @@
 <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Development related stuff that I'm good with: </h2>
 
 <p>
- 
+
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
@@ -96,7 +96,7 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25">
 
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25">
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25">
@@ -122,12 +122,12 @@
 
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" height="25">
 
-<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="25"> 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="25">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" height="25">
 
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="25"> 
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" height="25">
@@ -159,7 +159,7 @@
 
 <br /><img src="https://media.giphy.com/media/tptFQ8QAJYYvu/giphy.gif" width="70" height="60" />
 
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="20" height="20" /> My Setup:
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="20" height="20" /> My Setup
 
  <p>
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="25">
@@ -201,7 +201,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=codewithmitesh&theme=tokyonight&&column=7&margin-w=15&margin-h=11&&no-frame=true)
 
-<p align="center"> 
+<p align="center">
   Visitors Count<br>
   <img src="https://profile-counter.glitch.me/codewithmitesh/count.svg" />
 </p>
@@ -210,4 +210,4 @@
  <img  height="200" width="800" src="https://i.ibb.co/3h0JQTR/opnakama9.jpg"/>
 </p>
 
-### 🙌 Sayonara, Visitor! 
+### 🙌 Sayonara, Visitor
