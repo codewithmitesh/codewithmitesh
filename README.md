@@ -80,12 +80,14 @@
 
 <!-- <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmitesh&theme=dark" alt="Mitesh-Tank"/></p> -->
-</div>  
+
 ### 🙌 My latest Projects
+
 - [Refocus](https://github.com/codewithmitesh/ReFocus#readme) - A tool to improve concentration for students
 - [Skillswag](https://github.com/codewithmitesh/Skillswag#readme) - Social media application to showcase skillset & earn swags
 - [Nibtube](https://nibtube.netlify.app/) - Video Sharing platform
 - [Imagiinator](https://imagiinator1.web.app/) - Generate Images and art from text description
 - [Inshorts-Clone](https://inshorts2-0.onrender.com/) - Short news application
 - [TalkAtive](https://talkative-c668.onrender.com) - Real time chat application with end to end encryption
+
 ### 👇Checkout my open source contributions below 👇
