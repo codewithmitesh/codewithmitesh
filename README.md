@@ -87,7 +87,9 @@
 - [Skillswag](https://github.com/codewithmitesh/Skillswag#readme) - Social media application to showcase skillset & earn swags
 - [Nibtube](https://nibtube.netlify.app/) - Video Sharing platform
 - [Imagiinator](https://imagiinator1.web.app/) - Generate Images and art from text description
-- [Inshorts-Clone](https://inshorts2-0.onrender.com/) - Short news application
-- [TalkAtive](https://talkative-c668.onrender.com) - Real time chat application with end to end encryption
+- [Inshorts-Clone](https://inshorts-mitesh.netlify.app/) - Short news application
+- [TalkAtive](https://talkative.up.railway.app) - Real time chat application with end to end encryption
+- [Getweather](https://get-weather-mitesh.up.railway.app/) - Weather Application (Build using Nodejs)
+- [Wu-the-watcher](https://wu-the-watcher.netlify.app/) - CSS Parallex Effect
 
 ### 👇Checkout my open source contributions below 👇
