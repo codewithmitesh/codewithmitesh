@@ -4,25 +4,26 @@
 <h3> I'm a Software Engineer and a Freelancer!!
 </h3>
 
-- 🔭 I have expertise in the **Full Stack (Javascript)** and **Flutter development**.
-- ✅ I have a **"Learning skills"** I like to learn new things and improve my knowledge, currently leaning **Blockchain** Development.
-- 👉 Do Checkout **ReFocus** and **Skillswag**
-- 🥉 I recently won **_Smart India Hackathon 2022_** which is the Largest Open innovation model Hackathon in India organised by Government of India powered by Amazon and Shell.
-- 🥅 2023-24 Goals: I strongly believe in the power of **problem-solving** and using technical solutions to address real-world issues that can improve people's lives. In 2023, I plan to contribute more to **open-source projects** and expand my knowledge of new technologies and explore more opportunities.
-- 🐱‍👤 I'm looking for **remote jobs and internships**😇 Checkout my [RESUME](https://tinyurl.com/ResumeMitesh)
-- 🎥 Checkout my [Introduction Video](https://www.linkedin.com/in/mitesh-tank) && [Portfolio Website](#)
+- 🔭 **Full Stack Developer | Flutter Enthusiast | DevOps & Blockchain Explorer**
+- ✅ I have a **"Learning skills"** I like to learn new things and improve my knowledge, currently exploring **DevOps** & **Blockchain** Development.
+- I am **Certified Kubernetes Application Developer (CKAD)** and AWS CCP Certified.
+- I am Grand Finalist in **_Smart India Hackathon 2023_** solving **Case Flow Management** Problem for Ministry of Justice, India. Checkout [NyaySarthi](https://github.com/codewithmitesh/NyayaSarthi).
+- 🥉 I recently won **_Smart India Hackathon 2022_** which is the Largest Open innovation model Hackathon in India organised by Government of India, We solved attentiveness problem of students for Ministry of Education, India. Checkout [Refocus](https://github.com/codewithmitesh/ReFocus)
+- 🥅 2024-25 Goals: I strongly believe in the power of **problem-solving** and using technical solutions to address real-world issues that can improve people's lives. In 2024, I plan to contribute more to **open-source projects** and expand my knowledge of new technologies and explore more opportunities.
+- ▶𝚈𝚘𝚞𝚝𝚞𝚋𝚎 Checkout my YouTube Channel [MiteshTank](#) where I share my learnings and experience with the community.
+- 🐱‍👤 I'm looking for **Remote Jobs Opportunites**😇, You can reach out to me at codewithmitesh@gmail.com or [Twitter](https://twitter.com/codewithmitesh).
 
+- 🎥 Checkout my [Introduction Video](https://www.linkedin.com/in/mitesh-tank) && [Portfolio Website](#). 
 </p>
 
 <hr> <h3><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> Don't hesitate to connect with me:
-<img src="https://media.giphy.com/media/YlRpYzrkHbtSYDAlaE/giphy.gif" width="70" height="70" />
+<!-- <img src="https://media.giphy.com/media/YlRpYzrkHbtSYDAlaE/giphy.gif" width="70" height="70" /> -->
 </br>
 </h3>
 <a href="https://www.linkedin.com/in/mitesh-tank" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 <a href="https://twitter.com/codewithmitesh" target="_blank"><img height="28" src = "https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://www.instagram.com/codewithmitesh"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="#"><img alt="Instagram" src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)"/></a>
-<a href="#"><img alt="Instagram" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/></a>
+<a href="https://www.youtube.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 <a href="https://leetcode.com/codewithmitesh/" target="_blank"><img height="28" src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
 
 <h3><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Development related stuff that I'm good with:
@@ -58,6 +59,11 @@
 <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" height="25">
+<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="25">
 </p>
 <img src="https://media.giphy.com/media/CAYVZA5NRb529kKQUc/giphy.gif" width="70" height="90" />
 </h3>
@@ -83,13 +89,14 @@
 
 ### 🙌 My latest Projects
 
-- [Refocus](https://github.com/codewithmitesh/ReFocus#readme) - A tool to improve concentration for students
+- [NyayaSarthi](https://github.com/codewithmitesh/NyayaSarthi#readme) - A Case Flow Management System 
+- [Refocus](https://github.com/codewithmitesh/ReFocus#readme) - A Tool to improve concentration for students
 - [Skillswag](https://github.com/codewithmitesh/Skillswag#readme) - Social media application to showcase skillset & earn swags
+- [Flappy Bird](https://github.com/codewithmitesh/Flappy-Bird) - A Falppy Bird Game using Flutter
+- [Imazilla](https://github.com/codewithmitesh/Imazilla) - A Download Latest Wallpaper App
+- [Musicalical](https://github.com/codewithmitesh/musicalical) - A Music Player App  
 - [Nibtube](https://nibtube.netlify.app/) - Video Sharing platform
 - [Imagiinator](https://imagiinator1.web.app/) - Generate Images and art from text description
-- [Inshorts-Clone](https://inshorts-mitesh.netlify.app/) - Short news application
-- [TalkAtive](https://talkative.up.railway.app) - Real time chat application with end to end encryption
-- [Getweather](https://get-weather-mitesh.up.railway.app/) - Weather Application (Build using Nodejs)
-- [Wu-the-watcher](https://wu-the-watcher.netlify.app/) - CSS Parallex Effect
+
 
 ### 👇Checkout my open source contributions below 👇
