@@ -64,6 +64,10 @@
 <img src="https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/blockchain-%23000000.svg?style=for-the-badge&logo=blockchain&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/ethereum-%232C3E50.svg?style=for-the-badge&logo=ethereum&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/solana-%23000000.svg?style=for-the-badge&logo=solana&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/web3-%23F16822.svg?style=for-the-badge&logo=web3.js&logoColor=white" height="25">
 </p>
 <img src="https://media.giphy.com/media/CAYVZA5NRb529kKQUc/giphy.gif" width="70" height="90" />
 </h3>
